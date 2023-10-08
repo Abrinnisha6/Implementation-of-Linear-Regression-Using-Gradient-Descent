@@ -126,18 +126,30 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Output :
 
+
+### PROFIT PREDICTION :
+
 ![Screenshot 2023-09-14 102434](https://github.com/Abrinnisha6/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889454/fe54ded8-d464-4d06-8187-3954a649827e)
+
+### COST FUNCTION :
 
 ![Screenshot 2023-09-14 102536](https://github.com/Abrinnisha6/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889454/6161855f-7f07-4145-b3e5-627b007a7c06)
 
+### GRADIENT DESCENT :
+
 ![Screenshot 2023-09-14 102600](https://github.com/Abrinnisha6/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889454/91982e85-620e-4587-afd4-7866a6481dce)
+
+### COST FUNCTION USING GRADIENT DESCENT :
 
 ![Screenshot 2023-09-14 102609](https://github.com/Abrinnisha6/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889454/a1601e7d-7bae-4935-bfa1-16afd4c985c7)
 
+### GRAPH WITH BEST FIT LINE (PROFIT PREDICTION) :
+
 ![Screenshot 2023-09-14 102636](https://github.com/Abrinnisha6/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889454/7a115b20-d4e3-4b4e-b645-2959b8e28dea)
 
-![Screenshot 2023-09-14 102647](https://github.com/Abrinnisha6/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889454/f1a8687d-7605-4056-b234-5728bb3da6c5)
+### PROFIT PREDICTION FOR A POPULATION OF 35,000 & 70,000 :
 
+![Screenshot 2023-09-14 102647](https://github.com/Abrinnisha6/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118889454/f1a8687d-7605-4056-b234-5728bb3da6c5)
 
 ## Result :
 
